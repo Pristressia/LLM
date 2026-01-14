@@ -1,0 +1,2 @@
+[console_scripts]
+llmscratch = llmscratch.cli:app

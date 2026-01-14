@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/llm_scratch.egg-info/PKG-INFO
+src/llm_scratch.egg-info/SOURCES.txt
+src/llm_scratch.egg-info/dependency_links.txt
+src/llm_scratch.egg-info/entry_points.txt
+src/llm_scratch.egg-info/requires.txt
+src/llm_scratch.egg-info/top_level.txt
+src/llmscratch/cli.py
